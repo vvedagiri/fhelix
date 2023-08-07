@@ -10,6 +10,7 @@
  * governing permissions and limitations under the License.
  */
 
+
  :root {
   /* colors */
   --link-color: #035fe6;
@@ -27,7 +28,7 @@
   /* body sizes */
   --body-font-size-m: 22px;
   --body-font-size-s: 18px;
-  --body-font-size-xs: 16px;
+  --body-font-size-xs: 15px;
 
   /* heading sizes */
   --heading-font-size-xxl: 48px;
