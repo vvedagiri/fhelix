@@ -1,6 +1,4 @@
 {
-    "project": "SecurBank",
-    "host": "www.securbankdemo1.com",
     "plugins": [
         {
             "id": "library",
